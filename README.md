@@ -16,10 +16,11 @@
  
 <div> 
 
-  <a href="https://www.instagram.com/jmxz.iwnl_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/755483507698172045/755786735148990574/1098939397782655027" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:johnyzin2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  < a  href = " https://www.instagram.com/jmxz.iwnl_/ "  target = "_blank" >< img  src = " https://img.shields.io/badge/-Instagram-%23E4405F?style =for-the-badge&logo=instagram&logoColor=white "  target = "_blank" ></ a >
+ < a  href = " https://discord.com/channels/755483507698172045/755786735148990574/1098939397782655027 "  target = "_blank" >< img  src = " https://img.shields.io/badge/Discord-7289DA?style= for-the-badge&logo=discord&logoColor=white "  target = "_blank" ></ a > 
+  
+  < a  href = "#"  target = "_blank" >< img  src = " https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white "  target = "_blank" ></ a >
+ <                 a                  href = " mailto: johnyzin2007@gmail.com" target"     =     " _blank "     ><     img     width = " 77em "     src = "         https://img.shields.io/badge/Gmail-21262D?style = for-the - badge&logo = gmail&logoColor = ccc "    ></     a    >
  
   ![Snake animation](https://github.com/Johnyzin/Johnyzin/blob/output/github-contribution-grid-snake.svg)
 
